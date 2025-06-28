@@ -33,18 +33,6 @@ const Contact = () => {
       title: "Email Us",
       value: "hello@corepivot.com",
       href: "mailto:hello@corepivot.com"
-    },
-    {
-      icon: Phone,
-      title: "Call Us",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
-    },
-    {
-      icon: MapPin,
-      title: "Visit Us",
-      value: "San Francisco, CA",
-      href: "#"
     }
   ];
 
